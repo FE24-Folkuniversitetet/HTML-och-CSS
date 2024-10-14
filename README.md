@@ -10,7 +10,7 @@ Börja med att skapa grundstommen i ett HTML-dokument. Lägg också till <!DOCTY
 
 Använd dessa element
 
-- <html>, Detta är roten till alla HTML-dokument
+-<html>, Detta är roten till alla HTML-dokument
 - <head>, meta-information och saker som inte syns i själv fönstret
    - <title>, Texten som syns på tabben i webbläsaren, ska vara i <head>
    - <meta charset="UTF-8">, anger teckenkodning på dokumentet, ska vara i <head>
