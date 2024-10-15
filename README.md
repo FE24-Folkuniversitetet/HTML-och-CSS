@@ -16,7 +16,7 @@ Använd följande element:
 * ```<body>``` är allt innehåll på sidan, ex ```<article>```, ```<h1>``` och ```<p>```
 
 ### Steg 2. Uppmärkning av enskilda element
-Nu ska du skapa content till 2 stycken artiklar. 
+Skapa sedan content till 2 stycken artiklar. 
 
 Använd följande element:
 
@@ -25,7 +25,7 @@ Använd följande element:
 * ```<img>```, Bild
 
 
-Du kan använda texten nedan eller skapa en egen "Lorem Ipsum": 
+Använd texten nedan eller skapa en egen "Lorem Ipsum": 
 
 ```
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
@@ -41,7 +41,7 @@ Skriven av Yngve Magnusdottir
 ```
 
 ### Steg 3. Uppdelning av innehåll med nesting
-Efter att du är klar med uppmärkningen av de enskilda elementen ska du fokusera på uppdelningen av innehållet (layouten). 
+Efter att uppmärkningen av de enskilda elementen är färdig är det dags att fokusera på uppdelningen av innehållet (layouten). 
 
 Använd följande element:
 
@@ -50,8 +50,8 @@ Använd följande element:
 * ```<article>```, ett innehållselement som är återanvändbart - tänk en nyhetsartikel, produkt, ett blogginlägg etc.
 * ```<footer>```, brukar innehålla saker som kontaktuppgifter och dylikt
 
-I din ```<header>``` skriver du ```The Garlic News``` som en rubrik
-och din ```<footer>``` ska innehålla:
+Sidans ```<header>``` ska innehålla ```The Garlic News``` som en rubrik
+och sidans ```<footer>``` ska innehålla:
 ```
 info@garlicnews.com
 +850 555-1337
