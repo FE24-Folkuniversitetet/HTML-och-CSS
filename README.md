@@ -8,12 +8,12 @@ Börja med att skapa grundstommen för ett HTML-dokument.
 
 Använd följande element:
 
-* ```<!DOCTYPE html>```, specificerar att detta är ett HTML-dokument
-* ```<html>```, detta är roten till alla HTML-dokument
-* ```<head>```, meta-information och saker som inte syns i själv fönstret
-    * ```<title>```, texten som syns på tabben i webbläsaren, ska vara i ```<head>```
-    * ```<meta charset="UTF-8">```, anger teckenkodning på dokumentet, ska vara i ```<head>``` 
-* ```<body>```, allt innehåll på sidan, ex ```<article>```, ```<h1>``` och ```<p>```
+* ```<!DOCTYPE html>``` specificerar att detta är ett HTML-dokument
+* ```<html>``` är roten till alla HTML-dokument
+* ```<head>``` innehåller meta-information och saker som inte syns i själv fönstret
+    * ```<title>``` är texten som syns på tabben i webbläsaren, ska vara i ```<head>```
+    * ```<meta charset="UTF-8">``` anger teckenkodning på dokumentet, ska vara i ```<head>``` 
+* ```<body>``` är allt innehåll på sidan, ex ```<article>```, ```<h1>``` och ```<p>```
 
 ### Steg 2. Uppmärkning av enskilda element
 Nu ska du skapa content till 2 stycken artiklar. 
@@ -23,6 +23,7 @@ Använd följande element:
 * ```<h1>```, Huvudrubrik
 * ```<h2>```, Rubrik
 * ```<p>```, Paragraf
+
 
 Du kan använda texten nedan eller skapa en egen "Lorem Ipsum": 
 
