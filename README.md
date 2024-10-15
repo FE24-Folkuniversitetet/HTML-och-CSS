@@ -1,7 +1,7 @@
 ### Övningar i HTML
 
 # News flash :newspaper:
-I den här övningen ska du använda HTML-element för att bygga upp en nyhetssida!
+I den här övningen används HTML-element för att bygga upp en nyhetssida!
 
 ### Steg 1. Lägg grunden
 Börja med att skapa grundstommen av ett HTML-dokument.
