@@ -9,9 +9,9 @@ Börja med att skapa grundstommen för ett HTML-dokument.
 Använd följande element:
 
 * ```<!DOCTYPE html>```, specificerar att detta är ett HTML-dokument
-* ```<html>```, Detta är roten till alla HTML-dokument
+* ```<html>```, detta är roten till alla HTML-dokument
 * ```<head>```, meta-information och saker som inte syns i själv fönstret
-    * ```<title>```, Texten som syns på tabben i webbläsaren, ska vara i ```<head>```
+    * ```<title>```, texten som syns på tabben i webbläsaren, ska vara i ```<head>```
     * ```<meta charset="UTF-8">```, anger teckenkodning på dokumentet, ska vara i ```<head>``` 
 * ```<body>```, allt innehåll på sidan, ex ```<article>```, ```<h1>``` och ```<p>```
 
@@ -25,6 +25,7 @@ Använd följande element:
 * ```<p>```, Paragraf
 
 Du kan använda texten nedan eller skapa en egen "Lorem Ipsum": 
+
 ```
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 Et recusandae eius aut minus amet fuga exercitationem delectus sint eos aliquid.
@@ -48,7 +49,7 @@ Använd följande element:
 * ```<article>```, ett innehållselement som är återanvändbart - tänk en nyhetsartikel, produkt, ett blogginlägg etc.
 * ```<footer>```, brukar innehålla saker som kontaktuppgifter och dylikt
 
-I din ```<header>``` skriver du ```The Garlic News``` som en rubrik,
+I din ```<header>``` skriver du ```The Garlic News``` som en rubrik
 och din ```<footer>``` ska innehålla:
 ```
 info@garlicnews.com
