@@ -4,7 +4,7 @@
 I den här övningen ska du använda HTML-element för att bygga upp en nyhetssida!
 
 ### Steg 1. Lägg grunden
-Börja med att skapa grundstommen för ett HTML-dokument.
+Börja med att skapa grundstommen av ett HTML-dokument.
 
 Använd följande element:
 
@@ -21,8 +21,8 @@ Nu ska du skapa content till 2 stycken artiklar.
 Använd följande element:
 
 * ```<h1>```, Huvudrubrik
-* ```<h2>```, Rubrik
 * ```<p>```, Paragraf
+* ```<img>```, Bild
 
 
 Du kan använda texten nedan eller skapa en egen "Lorem Ipsum": 
