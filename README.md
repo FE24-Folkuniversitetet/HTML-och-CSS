@@ -1,30 +1,30 @@
-# Övningar
+### Övningar i HTML
 
-##  1.Nyhetssidan
-Använd rätt element för att bygga upp en HTML-sida!
+# News flash :newspaper:
+I den här övningen ska du använda HTML-element för att bygga upp en nyhetssida!
 
-### HTML-dokumentet
+### Steg 1. Lägg grunden
+Börja med att skapa grundstommen för ett HTML-dokument.
 
-Börja med att skapa grundstommen i ett HTML-dokument.
-Lägg också till ```<!DOCTYPE html>``` längst upp i dokumentet.
+Använd följande element:
 
-Använd dessa element
-
+* ```<!DOCTYPE html>```, specificerar att detta är ett HTML-dokument
 * ```<html>```, Detta är roten till alla HTML-dokument
 * ```<head>```, meta-information och saker som inte syns i själv fönstret
     * ```<title>```, Texten som syns på tabben i webbläsaren, ska vara i ```<head>```
     * ```<meta charset="UTF-8">```, anger teckenkodning på dokumentet, ska vara i ```<head>``` 
 * ```<body>```, allt innehåll på sidan, ex ```<article>```, ```<h1>``` och ```<p>```
 
-### Introduktion - Uppmärkning
+### Steg 2. Uppmärkning av enskilda element
+Nu ska du skapa content till 2 stycken artiklar. 
 
-Använd elementen
+Använd följande element:
 
 * ```<h1>```, Huvudrubrik
 * ```<h2>```, Rubrik
 * ```<p>```, Paragraf
 
-Du kan utgå från texten nedan: 
+Du kan använda texten nedan eller skapa en egen "Lorem Ipsum": 
 ```
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 Et recusandae eius aut minus amet fuga exercitationem delectus sint eos aliquid.
@@ -38,27 +38,25 @@ minima ipsa assumenda necessitatibus delectus asperiores!
 Skriven av Yngve Magnusdottir
 ```
 
-### Uppdelning av innehåll - Nestning
+### Steg 3. Uppdelning av innehåll med nesting
+Efter att du är klar med uppmärkningen av de enskilda elementen ska du fokusera på uppdelningen av innehållet (layouten). 
 
-Efter du är klar med uppmärkningen av de enskilda elementen, ska du fokusera på uppdelningen av innehållet (layouten). 
+Använd följande element:
 
-Använd elementen
-
-* ```<header>```, representerar introducerande innehåll
-* ```<section>```, en samling av liknande innehåll
-* ```<article>```, ett innehållselement som är återanvändbart, tänk en nyhetsartikel, produkt, ett blogginlägg, etc.
+* ```<header>```, brukar innehålla saker som navigationslänkar och logotyp 
+* ```<section>```, representerar en samling av liknande innehåll
+* ```<article>```, ett innehållselement som är återanvändbart - tänk en nyhetsartikel, produkt, ett blogginlägg etc.
 * ```<footer>```, brukar innehålla saker som kontaktuppgifter och dylikt
 
-Lägg även till en ```<header>``` innehållande ```The Garlic News``` som en rubrik,
-samt en ```<footer>```innehållande:
+I din ```<header>``` skriver du ```The Garlic News``` som en rubrik,
+och din ```<footer>``` ska innehålla:
 ```
 info@garlicnews.com
 +850 555-1337
 ```
 
+# Split the nota :rice:
 
-## 2. Split the nota
-
-Återskapa följande layout. Färgen som används till knappen och bakgrunden är `#44338` och för labels är det `#5c29db`
+I denna övning ska du återskapa följande layout. Färgen som används till knappen och bakgrunden är `#44338` och för labels är det `#5c29db`
 
 ![split the Nota](https://user-images.githubusercontent.com/54267140/108719099-75757500-751f-11eb-8c3b-f80a1dca7956.png)
